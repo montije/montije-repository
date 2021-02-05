@@ -1,2 +1,2 @@
 # montije-repository
-Repositorio personal
+Repositorio Personal.
